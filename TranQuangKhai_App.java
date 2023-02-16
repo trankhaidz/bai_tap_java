@@ -2,8 +2,6 @@
 public class TranQuangKhai_App {
 
 	public static void main(String[] args) {
-		
-		System.out.println("Trần Quang Khải Học Java");
+		System.out.println("Tran Quang Khai Hoc Java");
 	}
-
 }
